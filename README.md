@@ -4,6 +4,10 @@ Hi, I'm Mayara Silva
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssmayara&show_icons=true&hide_border=true)
 
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
+<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+
 <a href="https://www.linkedin.com/in/mayara-silva-ctfl-at/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
 <!--
 **ssmayara/ssmayara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
