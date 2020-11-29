@@ -2,6 +2,8 @@
 
 Hi, I'm Mayara Silva
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssmayara&show_icons=true&hide_border=true)
+
 <a href="https://www.linkedin.com/in/mayara-silva-ctfl-at/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
 <!--
 **ssmayara/ssmayara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
